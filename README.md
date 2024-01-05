@@ -1,2 +1,2 @@
 # GameLibrary
- This the term project for my C# - .NET course.
+An MVC project developed with C#, and .NET EntityFrameworkCore. Includes CRUD operations, user authentication and authorization, session and cookie control.
