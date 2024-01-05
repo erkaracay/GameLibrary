@@ -1,0 +1,14 @@
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll

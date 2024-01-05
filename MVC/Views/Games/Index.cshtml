@@ -1,0 +1,77 @@
+@model IEnumerable<GameModel>
+
+@{
+    string title = "Game List";
+    ViewData["Title"] = title;
+
+    int count = Model.Count();
+    string countOutput = count == 0 ? "No records found." : count == 1 ? "1 record found." : count + " records found.";
+}
+
+<h1>@title</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if (TempData["Message"] is not null)
+{
+    <p class="text-success">@TempData["Message"]</p>
+}
+<p class="text-info">
+    @countOutput
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Revenue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryOutput)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DeveloperOutput)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleaseDateOutput)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.Revenue)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryOutput)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeveloperOutput)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReleaseDateOutput)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

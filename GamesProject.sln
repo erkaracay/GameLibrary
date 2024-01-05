@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{92644CBA-3BF3-47AF-AB57-10AEBF978BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{AAEE7ED0-744B-49DF-876C-3ACC585F80BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{20384A51-5D4B-4EE5-95FE-37266FAB798F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92644CBA-3BF3-47AF-AB57-10AEBF978BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92644CBA-3BF3-47AF-AB57-10AEBF978BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92644CBA-3BF3-47AF-AB57-10AEBF978BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92644CBA-3BF3-47AF-AB57-10AEBF978BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEE7ED0-744B-49DF-876C-3ACC585F80BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEE7ED0-744B-49DF-876C-3ACC585F80BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEE7ED0-744B-49DF-876C-3ACC585F80BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEE7ED0-744B-49DF-876C-3ACC585F80BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20384A51-5D4B-4EE5-95FE-37266FAB798F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20384A51-5D4B-4EE5-95FE-37266FAB798F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20384A51-5D4B-4EE5-95FE-37266FAB798F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20384A51-5D4B-4EE5-95FE-37266FAB798F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C4DDDAB-107A-45BF-8000-EDC9C346BA56}
+	EndGlobalSection
+EndGlobal

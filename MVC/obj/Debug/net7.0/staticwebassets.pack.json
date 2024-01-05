@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/obj/Debug/net7.0/scopedcss/projectbundle/MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/MVC.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/.gitignore",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/.gitignore"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/.travis.yml",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/.travis.yml"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/MIT-LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/MIT-LICENSE.txt"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/README.md",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/README.md"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/bower.json",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/bower.json"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/build/jquery.datetimepicker.full.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/build/jquery.datetimepicker.full.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/build/jquery.datetimepicker.full.min.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/build/jquery.datetimepicker.full.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/build/jquery.datetimepicker.min.css",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/build/jquery.datetimepicker.min.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/build/jquery.datetimepicker.min.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/build/jquery.datetimepicker.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/datetimepicker.jquery.json",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/datetimepicker.jquery.json"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/doc.tpl",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/doc.tpl"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/index.html",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/index.html"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/jquery.datetimepicker.css",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/jquery.datetimepicker.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/jquery.datetimepicker.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/jquery.datetimepicker.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/jquery.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/jquery.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/karma.conf.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/karma.conf.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/package-lock.json",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/package-lock.json"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/package.json",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/package.json"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/pull_request_template.md",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/pull_request_template.md"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/screen/1.png",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/screen/1.png"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/screen/2.png",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/screen/2.png"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/screen/3.1.png",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/screen/3.1.png"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/screen/3.png",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/screen/3.png"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/screen/4.png",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/screen/4.png"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/screen/5.png",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/screen/5.png"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/screen/6.png",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/screen/6.png"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/app.css",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/app.css"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/index.html",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/index.html"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/input_in_container_fixed_to_bottom_of_viewport.html",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/input_in_container_fixed_to_bottom_of_viewport.html"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/input_in_container_fixed_to_top_of_viewport.html",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/input_in_container_fixed_to_top_of_viewport.html"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/tests/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/tests/bootstrap.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/tests/destroy.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/tests/destroy.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/tests/events.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/tests/events.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/tests/init.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/tests/init.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/tests/methods.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/tests/methods.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/tests/tests/options.js",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/tests/tests/options.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/datetimepicker-master/yarn.lock",
+      "PackagePath": "staticwebassets/lib/datetimepicker-master/yarn.lock"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/MVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.MVC.props",
+      "PackagePath": "build\\MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MVC.props",
+      "PackagePath": "buildMultiTargeting\\MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MVC.props",
+      "PackagePath": "buildTransitive\\MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

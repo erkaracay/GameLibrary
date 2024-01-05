@@ -1,0 +1,64 @@
+@model IEnumerable<UserModel>
+
+@{
+    string title = "User List";
+    ViewData["Title"] = title;
+
+    int count = Model.Count();
+    string countOutput = count == 0 ? "No records found." : count == 1 ? "1 record found." : count + " records found.";
+}
+
+<h1>@title</h1>
+
+@if (User.IsInRole("admin"))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+
+@if (TempData["Message"] is not null)
+{
+    <p class="text-success">@TempData["Message"]</p>
+}
+
+<p class="text-info">
+    @countOutput
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsAdmin)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsAdminOutput)
+                </td>
+                <td class="text-end">
+                    @if (User.IsInRole("admin"))
+                    {
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                        @:&nbsp;| &nbsp;
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                        @:&nbsp;|&nbsp;
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

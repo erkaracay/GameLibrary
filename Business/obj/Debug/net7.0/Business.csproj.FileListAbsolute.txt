@@ -1,0 +1,15 @@
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/bin/Debug/net7.0/Business.deps.json
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/bin/Debug/net7.0/Business.dll
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/bin/Debug/net7.0/Business.pdb
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/Business.dll
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/Business.pdb
+/Users/erkinkaracay/Desktop/Classes/SEMESTER7/CTIS 479/GamesProject/Business/obj/Debug/net7.0/ref/Business.dll

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{92644CBA-3BF3-47AF-AB57-10AEBF978BEE}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/Entities/Game.cs">
+    <Files>
+      <File FileName="MVC/Views/Games/Delete.cshtml" Line="42" Column="60" />
+      <File FileName="DataAccess/Entities/Game.cs" Line="20" Column="27" />
+      <File FileName="DataAccess/Entities/Category.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GamesProject" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Game.cs" selected="True" />
+              </Node>
+              <Node name="Enums" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+            </Node>
+            <Node name="MVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Settings" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Developers" expanded="True" />
+                <Node name="Games" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Users" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="/Applications/Arc.app" />
+</Properties>
